@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jellyfin.Plugin.Ignore", "Jellyfin.Plugin.Ignore\Jellyfin.Plugin.Ignore.csproj", "{D921B930-CF91-406F-ACBC-08914DCD0D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jellyfin.Plugin.Ignore.Test", "Jellyfin.Plugin.Ignore.Test\Jellyfin.Plugin.Ignore.Test.csproj", "{35FFCA97-42DB-4A7D-A597-16BB283CD48F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D921B930-CF91-406F-ACBC-08914DCD0D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D921B930-CF91-406F-ACBC-08914DCD0D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D921B930-CF91-406F-ACBC-08914DCD0D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D921B930-CF91-406F-ACBC-08914DCD0D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FFCA97-42DB-4A7D-A597-16BB283CD48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FFCA97-42DB-4A7D-A597-16BB283CD48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FFCA97-42DB-4A7D-A597-16BB283CD48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FFCA97-42DB-4A7D-A597-16BB283CD48F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE68C9F-3968-48DA-BF27-3F7B9E43A657}
+	EndGlobalSection
+EndGlobal

@@ -1,16 +1,15 @@
 ---
-name: "Template"
-guid: "eb5d7894-8eef-4b36-aa6f-5d124e828ce1"
+name: "Ignore"
+guid: "bd08ce53-8040-4043-a96a-55933807d7d8"
 version: "1.0.0.0"
 targetAbi: "10.8.0.0"
 framework: "net6.0"
-overview: "Short description about your plugin"
+overview: "Super simple plugin to ignore files based on `.jellyfinignore`."
 description: >
-  This is a longer description that can span more than one
-  line and include details about your plugin.
+  Super simple plugin to ignore files based on `.jellyfinignore`.
 category: "General"
-owner: "jellyfin"
+owner: "arition"
 artifacts:
-- "Jellyfin.Plugin.Template.dll"
+- "Jellyfin.Plugin.Ignore.dll"
 changelog: >
-  changelog
+  2022-08-22 Init
