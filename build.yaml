@@ -11,5 +11,6 @@ category: "General"
 owner: "arition"
 artifacts:
 - "Jellyfin.Plugin.Ignore.dll"
+- "Ignore.dll"
 changelog: >
   2022-08-22 Init
