@@ -23,7 +23,10 @@ public class Plugin : BasePlugin<PluginConfiguration>
     }
 
     /// <inheritdoc />
-    public override string Name => "Template";
+    public override string Name => "Ignore";
+
+    /// <inheritdoc />
+    public override string Description => "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.";
 
     /// <inheritdoc />
     public override Guid Id => Guid.Parse("bd08ce53-8040-4043-a96a-55933807d7d8");

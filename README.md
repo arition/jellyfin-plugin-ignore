@@ -1,3 +1,3 @@
 # Jellyfin Ignore Plugin
 
-Super simple plugin to ignore files based on `.jellyfinignore`.
+This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.

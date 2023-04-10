@@ -1,16 +1,17 @@
 ---
 name: "Ignore"
 guid: "bd08ce53-8040-4043-a96a-55933807d7d8"
-version: "1.0.0.0"
+version: "1.0.1.0"
 targetAbi: "10.8.0.0"
 framework: "net6.0"
-overview: "Super simple plugin to ignore files based on `.jellyfinignore`."
+overview: "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file."
 description: >
-  Super simple plugin to ignore files based on `.jellyfinignore`.
+  This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.
 category: "General"
 owner: "arition"
 artifacts:
 - "Jellyfin.Plugin.Ignore.dll"
 - "Ignore.dll"
 changelog: >
+  2023-04-10 Update description
   2022-08-22 Init
