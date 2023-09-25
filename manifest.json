@@ -1,0 +1,19 @@
+[
+        {
+        "guid": "bd08ce53-8040-4043-a96a-55933807d7d8",
+        "name": "Ignore",
+        "description": "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.",
+        "overview": "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.",
+        "owner": "arition",
+        "category": "General",
+        "versions": [
+                {
+                "version": "1.0.1.0",
+                "changelog": "2023-04-10 Update description\n2022-08-22 Init",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/arition/jellyfin-plugin-ignore/releases/download/v1.0.1.0/ignore_1.0.1.0.zip",
+                "checksum": "690f2995b1718b222896ad313ed51bdb",
+                "timestamp": "2023-04-10T00:00:00Z"
+                } ]
+        }
+]
