@@ -29,7 +29,7 @@ namespace Jellyfin.Plugin.Ignore
         }
 
         /// <inheritdoc />
-        public bool ShouldIgnore(FileSystemMetadata fileInfo, BaseItem parent)
+        public bool ShouldIgnore(FileSystemMetadata fileInfo, BaseItem? parent)
         {
             var parentDirPath = Path.GetDirectoryName(fileInfo.FullName);
             if (string.IsNullOrEmpty(parentDirPath))
