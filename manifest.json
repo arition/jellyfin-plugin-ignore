@@ -1,20 +1,20 @@
 [
-  {
-    "guid": "bd08ce53-8040-4043-a96a-55933807d7d8",
-    "name": "Ignore",
-    "description": "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.",
-    "overview": "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.",
-    "owner": "arition",
-    "category": "General",
-    "versions": [
-      {
-        "version": "2.0.0.0",
-        "changelog": "Update Jellyfin SDK to 10.9",
-        "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://github.com/arition/jellyfin-plugin-ignore/releases/download/v2.0.0.0/ignore_2.0.0.0.zip",
-        "checksum": "e57cfa02b9c22881c0b2f7fca1fbdbf2",
-        "timestamp": "2024-07-08T00:00:00Z"
-      }
-    ]
-  }
+    {
+        "guid": "bd08ce53-8040-4043-a96a-55933807d7d8",
+        "name": "Ignore",
+        "description": "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.",
+        "overview": "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file.",
+        "owner": "arition",
+        "category": "General",
+        "versions": [
+            {
+                "version": "2.1.0.0",
+                "changelog": "Update Jellyfin SDK to 10.9",
+                "targetAbi": "10.9.0.0",
+                "sourceUrl": "https://github.com/arition/jellyfin-plugin-ignore/releases/download/v2.1.0.0/ignore_2.1.0.0.zip",
+                "checksum": "335d94b2a2858d8ba716d7c61ce0aead",
+                "timestamp": "2024-07-08T00:00:00Z"
+            }
+        ]
+    }
 ]
