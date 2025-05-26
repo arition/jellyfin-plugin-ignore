@@ -1,8 +1,8 @@
 ---
 name: "Ignore"
 guid: "bd08ce53-8040-4043-a96a-55933807d7d8"
-version: "2.1.0.0"
-targetAbi: "10.9.0.0"
+version: "2.2.0.0"
+targetAbi: "10.10.7.0"
 framework: "net8.0"
 overview: "This plugin allows for the exclusion of files based on the specifications outlined in the `.jellyfinignore` file."
 description: >
@@ -13,6 +13,7 @@ artifacts:
   - "Jellyfin.Plugin.Ignore.dll"
   - "Ignore.dll"
 changelog: >
+  2025-05-26 Update Jellyfin SDK to 10.10.7
   2024-07-08 Update Jellyfin SDK to 10.9
   2023-04-10 Update description
   2022-08-22 Init
