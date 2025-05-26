@@ -2,5 +2,6 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2f0d81f8_002Dd27a_002D4ff8_002D81c5_002D451c6102e89e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::35FFCA97-42DB-4A7D-A597-16BB283CD48F::net6.0::Jellyfin.Plugin.Ignore.Test.IgnoreTest.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::35FFCA97-42DB-4A7D-A597-16BB283CD48F::net6.0::Jellyfin.Plugin.Ignore.Test.IgnoreTest.TestReal&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
