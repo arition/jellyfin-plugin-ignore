@@ -8,6 +8,14 @@
         "category": "General",
         "versions": [
             {
+                "version": "2.3.0.0",
+                "changelog": "Update Jellyfin SDK to 10.11.5 and .NET 9.0",
+                "targetAbi": "10.11.5.0",
+                "sourceUrl": "https://github.com/arition/jellyfin-plugin-ignore/releases/download/v2.3.0.0/ignore_2.3.0.0.zip",
+                "checksum": "fe227f9dca53ff4afff56252feab3fab",
+                "timestamp": "2026-01-01T00:00:00Z"
+            },
+            {
                 "version": "2.1.0.0",
                 "changelog": "Update Jellyfin SDK to 10.9",
                 "targetAbi": "10.9.0.0",
