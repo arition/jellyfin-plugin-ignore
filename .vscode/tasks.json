@@ -50,7 +50,7 @@
             "type": "shell",
             "command": "cp",
             "args": [
-                "./${config:pluginName}/bin/Debug/net9.0/publish/*",
+                "./${config:pluginName}/bin/Debug/net10.0/publish/*",
                 "${config:jellyfinDataDir}/plugins/${config:pluginName}/"
             ]
         },
